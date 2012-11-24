@@ -479,8 +479,7 @@ Paterson	40	54 	 74	 9
 Phillipsburg	40	41 	 75	 11 
 Trenton Co	40	13 	 74	 46 
 Vineland	39	29 	 75	 0 
-NEW MEXICO			
-Alamagordo				
+NEW MEXICO
 Holloman 	32	51 	 106	 6 
 Albuquerque  	35	3 	 106	 37 
 Artesia	32	46 	 104	 23 
@@ -727,8 +726,7 @@ Palestine Co	31	47 	 95	 38
 Pampa	35	32 	 100	 59 
 Pecos	31	25 	 103	 30 
 Plainview	34	11 	 101	 42 
-Port Arthur 	29	57 	 94	 1 
-San Angelo				
+Port Arthur 	29	57 	 94	 1
 Goodfellow 	31	26 	 100	 24 
 San Antonio  	29	32 	 98	 28 
 Sherman, Perrin 	33	43 	 96	 40 
