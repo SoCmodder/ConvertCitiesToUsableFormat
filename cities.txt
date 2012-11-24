@@ -650,7 +650,7 @@ York	39	55 	 76	 45
 RHODE ISLAND			
 Newport 	41	30 	 71	 20 
 Providence 	41	44 	 71	 26 
-A NAME="SOUTHxCAROLINA">SO	UTH CARO	INA		
+SOUTH CAROLINA
 Anderson	34	30 	 82	 43 
 Charleston  	32	54 	 80	 2 
 Charleston Co	32	54 	 79	 58 
